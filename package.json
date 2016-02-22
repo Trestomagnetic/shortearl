@@ -1,5 +1,5 @@
 {
-  "name": "reactmongodemo",
+  "name": "myshortearl",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,7 +22,7 @@
     "gulp-eslint": "^1.1.1",
     "gulp-open": "*",
     "jquery": "*",
-    "lodash": "*",
+    "lodash": "^4.3.0",
     "object-assign": "*",
     "react": "*",
     "toastr": "*",
